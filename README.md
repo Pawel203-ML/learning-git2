@@ -1,1 +1,1 @@
-# learning-git2
+print('wynik')
